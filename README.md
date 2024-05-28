@@ -40,6 +40,7 @@ Se um arquivo com esse nome já existir, ele será substituído.
 # Observações
 O script utiliza uma expressão regular para extrair os dados de cada linha do texto.
 A coluna "STATUS" é preenchida com o valor padrão "Ativo". Se você precisar de valores específicos para o status, ajuste o script conforme necessário.
+Link de raspagem utilizado: https://pastebin.com/raw/xjCDscZk
 
 # Contribuição
 Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
