@@ -39,7 +39,7 @@ Se um arquivo com esse nome já existir, ele será substituído.
 
 <hr>
 # Script funcionando:
-<img src="https://i.imgur.com/Ymy3bZO.gif">
+<img src="funcionando.gif">
 <i>Qualidade baixa por se tratar de um GIF.</i>
 
 
