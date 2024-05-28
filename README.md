@@ -37,10 +37,18 @@ python script.py
 O script gerará um arquivo chamado dados_empresas.xlsx no mesmo diretório. 
 Se um arquivo com esse nome já existir, ele será substituído.
 
+<hr>
+# Script funcionando:
+<img src="https://i.imgur.com/Ymy3bZO.gif">
+<i>Qualidade baixa por se tratar de um GIF.</i>
+
+
 # Observações
 O script utiliza uma expressão regular para extrair os dados de cada linha do texto.
 A coluna "STATUS" é preenchida com o valor padrão "Ativo". Se você precisar de valores específicos para o status, ajuste o script conforme necessário.<br>
 Link de raspagem utilizado: https://pastebin.com/raw/xjCDscZk
+
+
 
 # Contribuição
 Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
