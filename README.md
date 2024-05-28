@@ -30,7 +30,7 @@ cd webscraping_simples
 Execute o script:
 
 ```sh
-python script_raspagem.py
+python script.py
 ```
 
 # Verifique o arquivo Excel gerado:
